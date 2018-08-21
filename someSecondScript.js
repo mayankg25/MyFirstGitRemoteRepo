@@ -1,0 +1,1 @@
+console.log("Hey from some second script");
